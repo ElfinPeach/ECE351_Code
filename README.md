@@ -1,2 +1,2 @@
 # ECE351_Code
-Code repository for ECE351
+Python code repository for ECE351
